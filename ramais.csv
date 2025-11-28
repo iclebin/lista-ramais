@@ -1,35 +1,34 @@
 ﻿NOME;RAMAL;SETOR
-Adriano;7468;RH
-Alessandro;7485;CUSTOS
-André K.;7467;DIRETORIA
-Cleberson;7470;CONTAS A RECEBER
-Cristiane;7490;FINANCEIRO
-Cristopher;7466;TI
+Adriano ;7468;RH
+Alessandro ;7485;Custos 
+André K.;7467;Diretoria    
+Cleberson ;7470;Contas a receber
+Clovis;7498;Custos 
+Cristiane;7490;Financeiro
+Cristopher;7479;TI
 Diogo;7508;ECM
-Doroti;9 ou 7450;RECEPÇÃO
-Eberson;7527;CASTECOR
-Erikson;7525;CASTECOR
-Fabricio;7471;TORRE
-Gabriel Troni;7479;TI
-Ingrid;7491;DIRETORIA
-Kethy;7459;FINANCEIRO
-Leonardo Amaral;7495;EFRETE
-Leonardo Reis;7454;CUSTOS
-Luiza;7454;CUSTOS
-Maria;7498;CUSTOS
-Mariana;7476;EFRETE
-Mateus G;7456;ECM
-Maurici;7458;ECM
-Monalisa;7460;COMERCIAL
+Doroti;9 ou 7450;Recepção
+Eberson ;7527;Castecor
+Ingrid;7491;Diretoria
+Kethy;7459;Financeiro
+Leonardo Amaral;7495;Efrete     
+Leonardo Barbosa;7529;Castecor
+Leonardo Reis;7454;Custos 
+Luiza;7454;Custos 
+Luiz;7471;Torre 
+Maurício ;7458;ECM
+Monalisa;7460;Comercial 
 Monique;7469;RH
-Rosiana;7452;FINANCEIRO
-Sandra;7475;DIÁRIAS
-Silvana;7484;DIÁRIAS
-Sirlene;7530;CASTECOR
-Tatiane;7487;CONTAS A RECEBER
-Torre;7472/7504;TORRE
-Tuany;7453;FINANCEIRO
+Rafael ;7476;Efrete     
+Rosiana;7452;Financeiro
+Sandra;7475;Multas
+Silvana;7484;Diárias
+Sirlene;7530;Castecor
+Tatiane ;7487;Contas a receber
+Torre ;7472;Torre
+Tuany;7453;Financeiro 
 Valdinei;7461;TI
-Valdinei;7477;SALA DE TI
+Valdinei;7477;Sala de TI
+Vinicius Pethres;7486;Contas a receber
 Viviane;7464;RH
-Teste;0800;Tst
+William;7456;ECM
